@@ -1,0 +1,25 @@
+ 
+body { 
+    height: 100%;
+    font-size: 1rem;
+}
+
+.gradient {
+    background: rgb(25,49,122);
+    background: linear-gradient(90deg, rgba(25,49,122,1) 29%, rgba(124,45,45,1) 75%);
+}
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.feature {
+    color:white;
+
+}
+
+.my-3 {
+    
+}
